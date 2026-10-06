@@ -77,7 +77,7 @@ words_by_level = {
     ]
 }
 
-
+#hola
 
 duration = 5  # segundos de grabación
 sample_rate = 44100
